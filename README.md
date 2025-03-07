@@ -45,7 +45,7 @@ This repository contains a beautiful, responsive personal portfolio built using 
 
 ## Demo
 
-To have a look at the [Demo](https://tanosimboangy.github.io/portfolio-example/){:target="_blank" rel="noopener"}
+To have a look at the [Demo](https://tanosimboangy.github.io/portfolio-example/)
 
 
 ## Build
