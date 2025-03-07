@@ -43,6 +43,11 @@ This repository contains a beautiful, responsive personal portfolio built using 
 
    The application should now be running at [http://localhost:5173](http://localhost:5173).
 
+## Demo
+
+To have a look at the [Demo](https://tanosimboangy.github.io/portfolio-example/)
+
+
 ## Build
 
 To create a production build, run:
